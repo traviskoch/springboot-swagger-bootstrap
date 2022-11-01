@@ -1,5 +1,5 @@
 # DataAdapter Admin Console Service
-This is the backend service for an admin console to install and maintain DataAdapters on-prem or cloud-based.
+This is a template for a springboot backend service using Java17, Swagger3 and JUnit5.
 
 ### Rest Endpoints
 All REST endpoints use 'dynamic' path. This means that path ``**`` is used as relative path in *base directory*.  
